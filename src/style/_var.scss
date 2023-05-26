@@ -1,0 +1,22 @@
+html[data-theme='dark'] {
+  --bg: #273022;
+  --text: #333;
+  --borderField: #000;
+  --boxColor: #8c8585;
+  --menuColor: #1d1c19;
+  --defaultText: #fff;
+  --defaultBg: #000;
+  --currentBox: #636363;
+  --white: invert(1);
+}
+
+html[data-theme='light'] {
+  --bg: #a9b6a2;
+  --text: #333;
+  --borderField: #000;
+  --boxColor: #c3c3c3;
+  --menuColor:  #E5C7A3;
+  --defaultText: #000;
+  --defaultBg: #fff;
+  --currentBox: #a3a3a3;
+}
